@@ -28,7 +28,7 @@ const quizData = [
         a: "<break>",
         b: "<lb>",
         c: "<br>",
-        d: "<Beni benden alırsan seni sana bırakmam>",
+        d: "<h1>",
         correct: "c",
     },
     {
@@ -52,7 +52,7 @@ const quizData = [
         a: "In the <head> section",
         b: "In the <body> section",
         c: "At the end of the document",
-        d: "Ali Koç istifa",
+        d: "<stylesheet>mystyle.css</stylesheet>",
         correct: "a",
     },
     {
